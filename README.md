@@ -2,9 +2,11 @@
 
 To start the app locally you need to install the dependencies:
 
-npm install
+git clone https://github.com/197291/picker.git
 
-To start the dev server type:
+cd niceform
+
+npm install
 
 npm start
 
