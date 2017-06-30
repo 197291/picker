@@ -4,7 +4,7 @@ To start the app locally you need to install the dependencies:
 
 git clone https://github.com/197291/picker.git
 
-cd niceform
+cd picker
 
 npm install
 
