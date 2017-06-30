@@ -1,0 +1,8 @@
+coverage/**
+node_modules/**
+public/**
+dist/**
+build/**
+*.spec.js
+*.test.js
+*.e2e-test.js

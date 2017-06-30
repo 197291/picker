@@ -1,0 +1,7 @@
+#IDEs
+.idea
+
+# dependencies
+/node_modules
+
+

@@ -1,0 +1,32 @@
+.selected {
+  color: red;
+}
+
+.picker-wrapper {
+  display: flex;
+  flex-direction: row;
+}
+.picker-header {
+  margin: 5px 0;
+  padding-left: 12px;
+  text-align: left;
+  color: #16b1b5;
+}
+
+.custom-input-wrapper {
+  position: relative;
+  width: 100%;
+  padding: 6px 12px;
+}
+
+.custom-input-close-btn {
+  position: absolute !important;
+  top: 5px;
+  right: 5px;
+}
+
+.reset-btn {
+  position: absolute !important;
+  top: 3px;
+  right: 3px;
+}
