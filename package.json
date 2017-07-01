@@ -1,18 +1,18 @@
 {
   "name": "picker",
-  "version": "1.0",
+  "version": "1.0.0",
   "author": {
     "name": "George",
     "email": "george.prowotorow@gmail.com",
     "url": "https://github.com/197291"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
+    "start": "node_modules/.bin/react-scripts start",
+    "build": "node_modules/.bin/react-scripts build",
+    "test": "node_modules/.bin/react-scripts test --env=jsdom",
     "lint:js": "node_modules/.bin/eslint ./src",
     "lint-staged": "node_modules/.bin/lint-staged",
-    "eject": "react-scripts eject"
+    "eject": "node_modules/.bin/react-scripts eject"
   },
   "dependencies": {
     "material-ui": "^0.18.5",
